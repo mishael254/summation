@@ -1,3 +1,9 @@
+a c++ project to display input values by the user and display them back on the console showing the multiplication, addition subtraction and also division , 
+Ratio ...although finding the ratio of the inputs is still pending!!😔
+
+
+
+
 # Requirements
 
   * g++ v5.4 or newer
@@ -73,3 +79,14 @@ output *simliar* to
 
 will  be displayed. Note that the precision estimates will vary by
 architecture/system.
+
+
+/*Note that the program is not yet complete ....this is a reminder that you should enback on it to complete the ratio part or find the ratio 
+		
+		
+		of the intergers a user input and also be in a position to display to him or her
+		suggested solution ... first find the gcd and then divide the gcd with each values both value 1 and value 2 and display them
+		    --and to find the gcd you have to find the factors of each values both value 1 and 2 and then check for the repeated and similar values and then multiply them to get the gcd
+
+		
+		*/
