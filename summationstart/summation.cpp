@@ -23,5 +23,5 @@ int main() {
 		else  { cout << "Input the correct value"; }
 
 
-	}return 0;
+	}return  0;
 }
