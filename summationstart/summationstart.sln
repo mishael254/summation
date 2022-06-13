@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "summationstart", "summationstart.vcxproj", "{7431A9D8-5C68-4EAF-8FA3-D433DD23B746}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "summation", "..\summation\summation.vdproj", "{3DDB5965-EF9E-4074-B180-E33041790F5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,11 @@ Global
 		{7431A9D8-5C68-4EAF-8FA3-D433DD23B746}.Release|x64.Build.0 = Release|x64
 		{7431A9D8-5C68-4EAF-8FA3-D433DD23B746}.Release|x86.ActiveCfg = Release|Win32
 		{7431A9D8-5C68-4EAF-8FA3-D433DD23B746}.Release|x86.Build.0 = Release|Win32
+		{3DDB5965-EF9E-4074-B180-E33041790F5A}.Debug|x64.ActiveCfg = Debug
+		{3DDB5965-EF9E-4074-B180-E33041790F5A}.Debug|x64.Build.0 = Debug
+		{3DDB5965-EF9E-4074-B180-E33041790F5A}.Debug|x86.ActiveCfg = Debug
+		{3DDB5965-EF9E-4074-B180-E33041790F5A}.Release|x64.ActiveCfg = Release
+		{3DDB5965-EF9E-4074-B180-E33041790F5A}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
